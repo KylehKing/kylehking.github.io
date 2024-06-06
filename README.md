@@ -39,7 +39,7 @@ The VR Debug Drawing Tool is built using C# and the XR Interaction Toolkit in Un
 ### Planning and Sprints
 Our development was organized into ten two-week sprints, with regular client meetings and reviews to ensure progress and alignment with requirements. Feedback from clients was incorporated into subsequent sprints, allowing for iterative improvements and feature additions.
 
-
+![An image of our group]([URL](https://github.com/KylehKing/kylehking.github.io/blob/main/IMG_5114.jpg?raw=true))
 
 *Project Members:*
 - Robert Blakeney
