@@ -1,2 +1,4 @@
 title: Vr Debug Drawing Tool
-theme: jekyll-theme-minimal
+description: This page offers a brief description of our project.
+theme: jekyll-theme-cayman
+markdown: kramdown
